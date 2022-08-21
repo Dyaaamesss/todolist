@@ -8,6 +8,8 @@ function App() {
     "Read books": "DONE",
     "Do homework": "TODO",
     "Exercise": "TODO",
+    "Work": "TODO",
+
   })
 
   const handleMoveClick = (itemName, progress) => {
